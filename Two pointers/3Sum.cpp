@@ -38,7 +38,7 @@ public:
         for (int i = 0; i < n - 2; i++)
         {
             //skip duplicate indexes
-            if (i > 0 && nums[i] == nums[i-1]) continue;
+            if (i > 0 && nums[i] == nums[i-1]) continue; // continue means "i" ki value barha do 
             int left = i + 1;
             int right = n - 1;
 
