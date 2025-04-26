@@ -4,6 +4,9 @@
         "array": "cpp",
         "string_view": "cpp",
         "initializer_list": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "chrono": "cpp",
+        "functional": "cpp",
+        "iostream": "cpp"
     }
 }
