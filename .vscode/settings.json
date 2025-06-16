@@ -8,5 +8,6 @@
         "chrono": "cpp",
         "functional": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
